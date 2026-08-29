@@ -20,7 +20,7 @@ An in-game leveling guide covering every profession in TBC Classic — all 8 pri
 
 1. Download and extract the zip
 2. Make sure the extracted folder is named `OneStopProfessionShop` and drop it directly into:
-   `World of Warcraft\_classic_\Interface\AddOns\`
+   `World of Warcraft\_anniversary_\Interface\AddOns\`
 3. The path should look like `...\AddOns\OneStopProfessionShop\OneStopProfessionShop.toc` — if there's an extra nested folder in between, move the files up a level
 4. Restart WoW (or `/reload` if it's already running)
 5. At the character-select screen, click **AddOns** and make sure it's checked
